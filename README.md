@@ -31,4 +31,4 @@
 Python, PyTorch, Torchvision, NumPy, Pandas, Matplotlib, Scikit-learn
 
 
-Основной файл с проектом лежит в директории src/
+## Основной файл с проектом лежит в директории src/
